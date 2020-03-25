@@ -3,4 +3,4 @@ Run BRUNO on broadband, multi-distance spectral data
 
 Start with "BRUNO_calc"
 
-Author: Zuzana Kovacsova, Multimodal Spectroscopy Group, University College London, UK. 
+Author: Zuzana Kovacsova from the Multimodal Spectroscopy Group, University College London. Licensed under the GPL v3. 

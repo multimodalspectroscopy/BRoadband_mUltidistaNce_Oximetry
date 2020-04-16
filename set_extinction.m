@@ -1,13 +1,11 @@
-function [Extinction_int,Waves_all,Wavelengths,DPF_wavelength_dependence] = set_extinction
+function [Extinction_int,Waves_all,Wavelengths] = set_extinction
 % function to take extinction spectra and return them in micromoles per mm,
 % also loads DPF 
 % Current setting works for CYRIL, change files if required
 
-DPF_wavelength_dependence = DPF_Lambda_Dependency_740to915;
-
 Waves_all = csvread('PIXIS 512F wavelengths.txt'); %CYRIL pixel wavelengths
 Wavelengths = [704:1:911]'; %Interpolation wavelengths
-Water_ext = water_extinction_coeff;
+Water_ext = %set water extinction
 Extinction = Wray_tissue_specific_extinction_coefficient_650to1042;
 coeff = zeros([length(Wavelengths) 3]);
 water_coeff = zeros([length(Wavelengths) 2]);

@@ -1,4 +1,4 @@
-# BRoadband_mUltidistaNce_Oximetry
+# BRUNO: BRoadband mUltidistaNce Oximetry
 Run BRUNO on broadband, multi-distance spectral data
 
 Start with "BRUNO_calc"

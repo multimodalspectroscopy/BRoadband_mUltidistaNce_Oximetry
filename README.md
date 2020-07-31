@@ -1,6 +1,8 @@
 # BRUNO: BRoadband mUltidistaNce Oximetry
-Run BRUNO on broadband, multi-distance spectral data
+The output of the PhD project of Zuzana Kovacsova.
 
-Start with "BRUNO_calc"
+Run BRUNO on broadband, multi-distance spectral NIRS data to recover oxygenation. 
+
+Start with "BRUNO_calc"; change wavelengths where needed. 
 
 Author: Zuzana Kovacsova; licensed under GPL v3. 

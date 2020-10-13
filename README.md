@@ -4,6 +4,6 @@ Run BRUNO on broadband, multi-distance spectral NIRS data to recover oxygenation
 
 Start with "Analyse_example_data" to calculate StO2 in data collected in a homogenenous dynamic blood phantom. 
 
-Requirements: MATLAB curve fitting toolbox, MATLAB symbolic toolbox, [fminsearchbnd] (https://uk.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon).
+Requirements: MATLAB curve fitting toolbox, MATLAB symbolic toolbox, [fminsearchbnd](https://uk.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon).
 
 Author: Zuzana Kovacsova; licensed under GPL v3. 
